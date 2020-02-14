@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Android_Intents</string>
+    <string name="ti_str_name">Name</string>
+    <string name="ti_str_phone">Phonenumber (+32)</string>
+    <string name="ti_str_homepage">URL Homepage</string>
+    <string name="str_btn_nav">Go !</string>
+    <string name="str_btn_homepage">Homepage</string>
+    <string name="str_btn_call">Call</string>
+    <string name="hint_str_adress">Nijverheidskaai 170,1070 Anderlecht</string>
+    <string name="ti_str_adress" >Adress</string>
+    <string name="btn_str_location">Show Location</string>
+</resources>
